@@ -3,7 +3,7 @@ package lang.print.gaps.task1;
 public class PrintWordsApp {
     public static void main(String[] args) {
 
-        System.out.println("java\nis\nsmth\n");
+        System.out.print("java\nis\nsmth\n");
         //write your code here
     }
 }
